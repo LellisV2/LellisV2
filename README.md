@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi! I am Lellis 👋
 
 [![Website](https://img.shields.io/website?label=lellis.xyz&style=for-the-badge&url=https%3A%2F%2Flellis.xyz)](https://lellis.xyz)
 
