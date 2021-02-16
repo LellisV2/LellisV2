@@ -67,10 +67,10 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Top Languages</summary>
   
 <!--START_SECTION:activity-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lellee)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
