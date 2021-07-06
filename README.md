@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lellis Github Stats" src="https://github-readme-stats.vercel.app/api?username=lellis&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="LellisV2 Github Stats" src="https://github-readme-stats.vercel.app/api?username=LellisV2&show_icons=true&theme=tokyonight" />
 
 </details>
 
