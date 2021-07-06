@@ -23,13 +23,6 @@
 <br />
 <br />
 
-### Stats
-
-![Lellis Stats](https://github-readme-stats.vercel.app/api?username=lellis&show_icons=true&theme=tokyonight)
-
-<br />
-<br />
-
 ### 📕 Projects
 
 <!-- BLOG-POST-LIST:START -->
@@ -49,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lellee&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lellis Github Stats" src="https://github-readme-stats.vercel.app/api?username=lellis&show_icons=true&theme=tokyonight" />
 
 </details>
 
