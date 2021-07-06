@@ -34,7 +34,7 @@
   <summary>:zap: Top Languages</summary>
   
 <!--START_SECTION:activity-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LellisV2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LellisV2&layout=compact&theme=tokyonight)](https://lellis.xyz)
 <!--END_SECTION:activity-->
 
 </details>
