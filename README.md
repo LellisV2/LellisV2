@@ -5,7 +5,6 @@
 ## I'm a Developer and Student
 
 - 🌱 I’m currently learning everything 🤣
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LellisV2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
@@ -24,6 +23,12 @@
 <br />
 <br />
 
+### Stats
+
+![Lellis Stats](https://github-readme-stats.vercel.app/api?username=lellis&show_icons=true&theme=tokyonight)
+
+<br />
+<br />
 
 ### 📕 Projects
 
