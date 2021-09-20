@@ -4,7 +4,7 @@
 
 ## I'm a Developer and Student
 
-- 🌱 I’m currently learning everything 🤣
+Hello! :)
 
 
 ### Languages and Tools:
@@ -20,12 +20,6 @@
 
 <br />
 <br />
-
-### 📕 Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Cloud System based on JS](https://lellis.xyz)
-<!-- BLOG-POST-LIST:END -->
 
 
 <details>
