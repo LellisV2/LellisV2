@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=lellis.xyz&style=for-the-badge&url=https%3A%2F%2Flellis.xyz)](https://lellis.xyz)
 
+[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=AlphaNecron.AlphaNecron&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
+
 ## I'm a Developer and Student
 
 Hello! :)
