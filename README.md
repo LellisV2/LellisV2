@@ -1,7 +1,5 @@
 ### Lellis 👋
 
-[![Website](https://img.shields.io/website?label=lellis.xyz&style=for-the-badge&url=https%3A%2F%2Flellis.xyz)](https://lellis.xyz)
-
 [![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=LellisV2.LellisV2&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
 ### Languages and Tools:
